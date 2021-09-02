@@ -12,8 +12,8 @@
 <br></br>
 <div align="center">
   <a href="https://github.com/VivianeBlock">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VivianeBlock&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeBlock&amp;layout=compact&amp;langs_count=7&amp;theme=tokyonight" style="max-width:100%;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VivianeBlock&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true" style="max-width:100%;">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivianeBlock&amp;layout=compact&amp;langs_count=7&amp;theme=radical" style="max-width:100%;">
 </a></div>
 
 ##
